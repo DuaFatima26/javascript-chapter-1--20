@@ -27,29 +27,6 @@ else {
 }
 
 
-// question 1 
-
-// let character2 = prompt("Enter a single character (number or letter):");
-
-
-// let ascii = character2.charCodeAt(0);
-
-// if (ascii >= 48 && ascii <= 57) {
-//     console.log("The given input is a number.");
-// }
-
-// else if (ascii >= 65 && ascii <= 90) {
-//     console.log("The given input is an uppercase letter.");
-// }
-
-// else if (ascii >= 97 && ascii <= 122) {
-//     console.log("The given input is a lowercase letter.");
-// }
-
-// else {
-//     console.log("The given input is neither a number nor a letter.");
-// }
-
 
 // question 2 
 

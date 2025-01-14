@@ -50,7 +50,7 @@ let movireprice = 400
 let totalPrice = movireprice * 5
 console.log("The cost to buy five tickets to a movies is " + totalPrice + "PKR")
 
-//question 4
+
 
 
 
